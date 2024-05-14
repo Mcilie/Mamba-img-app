@@ -85,6 +85,8 @@ text = "--- 94326400\nHi /pol/, lets have a thread about".rstrip()
 pred = model.generate_text(tokenizer, text, 256)
 ```
 
+You can also use this [colab notebook](https://colab.research.google.com/drive/1AEebKVl0gBOg75G8kYwIPUZdlK0kRTK4) for a quick demo.
+
 ## Credits
 
 Our work builds upon the remarkable achievement of [Mamba](https://arxiv.org/abs/2312.00752) <3.
